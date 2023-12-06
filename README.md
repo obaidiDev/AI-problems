@@ -1,1 +1,1 @@
-# sliding-tile-puzzle-solver
+# This rebo contains my solutions for some AI problems
